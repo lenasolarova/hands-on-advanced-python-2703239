@@ -3,6 +3,7 @@
 
 import json
 import pprint
+import collections
 
 
 # open the sample weather data file and use the json module to load and parse it
